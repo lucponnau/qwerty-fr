@@ -428,7 +428,7 @@
             <key code="10" action="` 1"/>
             <key code="11" output="ß"/>
             <key code="12" output="â"/>
-            <key code="13" output="é"/>
+            <key code="13" output="è"/>
             <key code="14" action="è"/>
             <key code="15" output="®"/>
             <key code="16" action=" ̑"/>
@@ -541,7 +541,7 @@
             <key code="11" action="ß"/>
             <key code="12" output="Â"/>
             <key code="13" action="É"/>
-            <key code="14" output="È"/>
+            <key code="14" output="É"/>
             <key code="15" action="©"/>
             <key code="16" action="action 1"/>
             <key code="17" action="action"/>
@@ -1946,7 +1946,7 @@
             <when state="none" output="Ç"/>
         </action>
         <action id="É">
-            <when state="none" output="É"/>
+            <when state="none" output="È"/>
         </action>
         <action id="Ì">
             <when state="none" output="Ì"/>
@@ -1965,7 +1965,7 @@
             <when state="math" output="⊄"/>
         </action>
         <action id="è">
-            <when state="none" output="è"/>
+            <when state="none" output="é"/>
             <when state="math" output="∄"/>
         </action>
         <action id="ì">
