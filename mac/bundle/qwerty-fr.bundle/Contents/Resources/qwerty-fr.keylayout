@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 351 on 2022-07-03 at 11:41 (CEST)-->
+<!--Last edited by Ukelele version 452 on 2025-11-11 at 11:44 (GMT+1)-->
 <!--Created by Ukelele version 2.1.10 on 2012-02-20 at 23:06 (PST)-->
-<keyboard group="126" id="-7247" name="qwerty-fr" maxout="3">
+<keyboard group="126" id="-7247" name="qwerty-fr-luc" maxout="3">
     <!-- Supporting both ISO and ANSI keyboards require shenanigans because some keys have inconsistent code. I was inspired by the file `bepo-qwerty.keylayout`.
     -->
     <layouts>
